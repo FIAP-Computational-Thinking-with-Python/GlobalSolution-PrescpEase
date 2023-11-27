@@ -3,7 +3,7 @@
         <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src="/GlobalSolution-PrescpEase-banner.png"  /> 
 </h1>
 
-<h2 align="center">Global Solution - HAPVIDA | NOTREDAME INTERMÉDICA - 1º Ano - 1ESPR</h2>
+<h2 align="center">Global Solution - HAPVIDA</h2>
 <h3 align="center">Enzo de Oliveira Rodrigues | RM: 553377</h3>
 
 
@@ -26,14 +26,14 @@ As prescrições médicas desempenham um papel crucial na jornada de tratamento 
 
 
 ## :sound: Desafio encontrado
-* 🔴 Barreiras à Compreensão:
+**🔴 Barreiras à Compreensão**:
 Frequentemente, as prescrições médicas se apresentam como verdadeiros enigmas, representando desafios intrincados para os pacientes e gerando barreiras substanciais para uma compreensão eficaz. 
 
 ## :dart: Objetivo e solução
 
 O principal propósito do produto é estabelecer uma comunicação clara e eficaz entre pacientes e médicos, visando melhorar a compreensão do usuário em relação à prescrição médica.Além disso, busca otimizar a organização e planejamento dos profissionais de saúde que utilizam o sistema, proporcionando uma gestão mais eficiente do tratamento do paciente.
 
-✅ A Solução é uma plataforma abrangente de cuidados de saúde que resolve desafios cruciais, oferecendo prescrições claras, orientações personalizadas, monitoramento simplificado da saúde, melhoria na adesão ao tratamento através de alertas automáticos e consultas médicas online eficientes.
+**✅ A Solução**  é uma plataforma abrangente de cuidados de saúde que resolve desafios cruciais, oferecendo prescrições claras, orientações personalizadas, monitoramento simplificado da saúde, melhoria na adesão ao tratamento através de alertas automáticos e consultas médicas online eficientes.
 
 
 
@@ -49,4 +49,5 @@ Tuturial e Simulação para utilização da aplicação ,facilitando o entendime
 <a href="#LinkVideoYoutube" target="_blank">
   <img src="/Checkpoint01-Edge.png" alt="Programa em Python" />
 </a>
-<h6>Veja a aplicação clicando na imagem abaixo:<h6>
+<h6>Veja a aplicação clicando na imagem abaixo ⬇️<h6> 
+
