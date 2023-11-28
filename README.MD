@@ -73,8 +73,11 @@ O principal propósito do produto é estabelecer uma comunicação clara e efica
 ## :desktop_computer: Simulação
 Tuturial e Simulação para utilização da aplicação ,facilitando o entendimento e funcionamento.
 <br/><br/>
-<a href="#LinkVideoYoutube" target="_blank">
-  <img src="/Checkpoint01-Edge.png" alt="Programa em Python" />
-</a>
+
 <h6>Veja a aplicação clicando na imagem abaixo ⬇️<h6> 
+<a href="https://youtu.be/XLcffCd1d0k" target="_blank">
+  <img src="/Prototipo.png" alt="Programa em Python" />
+</a>
+
+
 
