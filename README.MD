@@ -74,9 +74,9 @@ O principal propósito do produto é estabelecer uma comunicação clara e efica
 Tuturial e Simulação para utilização da aplicação ,facilitando o entendimento e funcionamento.
 <br/><br/>
 
-<h6>Veja a aplicação clicando na imagem abaixo ⬇️<h6> 
+<h6 align="center">Veja a aplicação clicando na imagem abaixo ⬇️<h6> 
 <a href="https://youtu.be/XLcffCd1d0k" target="_blank">
-  <img src="/Prototipo.png" alt="Programa em Python" />
+  <img align="center" src="/Prototipo.png" alt="Programa em Python" />
 </a>
 
 
