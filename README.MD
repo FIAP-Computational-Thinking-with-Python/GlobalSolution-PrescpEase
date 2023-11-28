@@ -75,8 +75,8 @@ Tuturial e Simulação para utilização da aplicação ,facilitando o entendime
 <br/><br/>
 
 <h6 align="center">Veja a aplicação clicando na imagem abaixo ⬇️<h6> 
-<a href="https://youtu.be/XLcffCd1d0k" target="_blank">
-  <img align="center" src="/Prototipo.png" alt="Programa em Python" />
+<a align="center" href="https://youtu.be/XLcffCd1d0k" target="_blank">
+  <img  src="/Prototipo.png" alt="Programa em Python" />
 </a>
 
 
