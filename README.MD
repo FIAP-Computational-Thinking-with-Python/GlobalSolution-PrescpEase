@@ -74,7 +74,7 @@ O principal propósito do produto é estabelecer uma comunicação clara e efica
 Tuturial e Simulação para utilização da aplicação ,facilitando o entendimento e funcionamento.
 <br/><br/>
 
-<h6 align="center">Veja a aplicação clicando na imagem abaixo ⬇️<h6> 
+<h2 align="center">Veja a aplicação clicando na imagem abaixo ⬇️<h2> 
 
 <p align="center">
  <a href="https://youtu.be/XLcffCd1d0k" target="_blank">
