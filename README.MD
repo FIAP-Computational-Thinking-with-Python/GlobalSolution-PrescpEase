@@ -36,36 +36,37 @@ O principal propósito do produto é estabelecer uma comunicação clara e efica
 **✅ A Solução**  é uma plataforma abrangente de cuidados de saúde que resolve desafios cruciais, oferecendo prescrições claras, orientações personalizadas, monitoramento simplificado da saúde, melhoria na adesão ao tratamento através de alertas automáticos e consultas médicas online eficientes.
 
 
-
 ## :memo: Instruções
 
+### Rodando o sistema para Profissionais da Saúde
 
-**Rodando o sistema para Profissionais da saúde -> Inicie o projeto rodando o arquivo "PrescpEase.py" em seu terminal**
+1. **Iniciar o Projeto:**
+   - Execute o arquivo `PrescpEase.py` no terminal.
 
-*Selecione a opção 1 para logar como Profissional. e logue com usuário e senha para proseguir com a aplicação. O nome de usuário poderá ser qualquer nome que estiver presente no array "professional_usernames" e a senha deve ser 123, caso contrário, uma mensagem de erro irá ser apresentada no console.
+2. **Login como Profissional:**
+   - Escolha a opção 1 para fazer login como profissional.
+   - Insira um nome de usuário presente no array `professional_usernames` (localizado no arquivo "Myfunctions.py") e a senha "123".
+   
+3. **Prescrição Médica:**
+   - Após o login, escolha a opção 1 "Prescrição Médica" para prescrever receitas médicas simples.
 
-**Após logar como profissional**, selecione a opção de número 1 "Prescrição Médica". Essa opção permite que os profissionais prescrevam receitas médicas simples para os usuários do sistema. 
+4. **Relatórios de Prescrição:**
+   - Ao concluir a prescrição, escolha a opção 2 "Relatórios de Prescrição" para visualizar todas as receitas médicas prescritas até o momento.
 
-**Após digitar sua preescrição** , escolha a opção de número 2 "Relatórios de prescrição". Essa opção permite que os profissionais visualizem todas as receitas médicas já prescritas até o momento.
+### Rodando o sistema para Usuários Finais
 
-**Rodando o sistema para Usuários finais -> Inicie o projeto rodando o arquivo "PrescpEase.py" em seu terminal**
+1. **Iniciar o Projeto:**
+   - Execute o arquivo `PrescpEase.py` no terminal.
 
-*Selecione a opção 2 para logar como Paciente. Insira usuário e senha para proseguir com a aplicação. O nome de usuário poderá ser qualquer nome que estiver presente no array "patients_usernames" no arquivo "Myfunctions.py" e a senha deve ser 432, caso contrário, uma mensagem de erro irá ser apresentada no console.
+2. **Login como Paciente:**
+   - Selecione a opção 2 para fazer login como paciente.
+   - Insira um nome de usuário presente no array `patients_usernames` (localizado no arquivo "Myfunctions.py") e a senha "432".
 
-**Após logar como paciente**, selecione a opção de número 1 "Minhas prescrições médicas". Essa opção permite que os usuários visualizem as prescrições já feitas para ele ( Se não houver, uma mensagem será exibida no terminal).
+3. **Minhas Prescrições Médicas:**
+   - Após o login, escolha a opção 1 "Minhas Prescrições Médicas" para visualizar as prescrições feitas para você.
 
-**Após visualizar as prescrições disponíveis** , escolha a opção de número 2 "Feedback". Essa opção permite que os pacientes enviem feedbacks da aplicação.
-
-
-
-
-
-
-
-
-
-
-
+4. **Feedback:**
+   - Ao visualizar as prescrições, escolha a opção 2 "Feedback" para enviar feedbacks sobre a aplicação.
 
 
 

@@ -3,8 +3,6 @@ import messages
 
 
 
-
-
 print(messages.decoration_line)
 print(messages.welcome_message)
 print(messages.decoration_line)
