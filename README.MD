@@ -39,7 +39,33 @@ O principal propósito do produto é estabelecer uma comunicação clara e efica
 
 ## :memo: Instruções
 
-INSTRUÇÕES PARA UTILIZAÇÃO DO PROJETO
+
+**Rodando o sistema para Profissionais da saúde -> Inicie o projeto rodando o arquivo "PrescpEase.py" em seu terminal**
+
+*Selecione a opção 1 para logar como Profissional. e logue com usuário e senha para proseguir com a aplicação. O nome de usuário poderá ser qualquer nome que estiver presente no array "professional_usernames" e a senha deve ser 123, caso contrário, uma mensagem de erro irá ser apresentada no console.
+
+**Após logar como profissional**, selecione a opção de número 1 "Prescrição Médica". Essa opção permite que os profissionais prescrevam receitas médicas simples para os usuários do sistema. 
+
+**Após digitar sua preescrição** , escolha a opção de número 2 "Relatórios de prescrição". Essa opção permite que os profissionais visualizem todas as receitas médicas já prescritas até o momento.
+
+**Rodando o sistema para Usuários finais -> Inicie o projeto rodando o arquivo "PrescpEase.py" em seu terminal**
+
+*Selecione a opção 2 para logar como Paciente. Insira usuário e senha para proseguir com a aplicação. O nome de usuário poderá ser qualquer nome que estiver presente no array "patients_usernames" no arquivo "Myfunctions.py" e a senha deve ser 432, caso contrário, uma mensagem de erro irá ser apresentada no console.
+
+**Após logar como paciente**, selecione a opção de número 1 "Minhas prescrições médicas". Essa opção permite que os usuários visualizem as prescrições já feitas para ele ( Se não houver, uma mensagem será exibida no terminal).
+
+**Após visualizar as prescrições disponíveis** , escolha a opção de número 2 "Feedback". Essa opção permite que os pacientes enviem feedbacks da aplicação.
+
+
+
+
+
+
+
+
+
+
+
 
 
 

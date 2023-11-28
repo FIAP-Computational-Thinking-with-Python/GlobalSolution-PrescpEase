@@ -119,11 +119,14 @@ def my_prescp_medic():
       print(messages.prescrip_error)
    else:
     print(prescriptions)
+   itemOption = input(messages.patients_items)
+   show_user_items(itemOption)
+   chosed_option_item(itemOption)
 
 def patient_feedback(patientMsg):
     feedbacks.append(patientMsg)
 
-    print("Feedback enviado com sucesso!")
+    print(messages.feedback_sent)
     
   
 def chosed_option_task(taskOption):

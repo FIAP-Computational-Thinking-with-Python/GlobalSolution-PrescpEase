@@ -27,6 +27,7 @@ password_patient = "Digite a sua senha:\n"
 
 patients_items = "Escolha o item:\n1 - Minha prescrição Médica \n2 - Feedback:\nDigite opção correspondente:"
 patientMsg = "De seu feedback sobre a aplicação:"
+feedback_sent = "\033[1;34m Feedback enviado com sucesso! \033[0m"
 
 
 
